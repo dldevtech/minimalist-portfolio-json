@@ -6,7 +6,7 @@
     "email": "dlucasdelgado@gmail.com",
     "phone": "+34 688888888",
     "url": "",
-    "summary": "Apasionado de la programación que busca hacerse hueco en este sector. Después de haberme graduado en Filosofía y de haber trabajado años en el sector del gimnasio, he decidido seguir mi pasión por la tecnología.",
+    "summary": "Graduado en Filosofía, TAFAD y Desarrollo de Aplicaciones Multiplataforma. Tras varios años trabajando como monitor de gimnasio y formador en el ámbito deportivo, decidí reorientar mi trayectoria profesional hacia la tecnología. Hoy canalizo esa misma disciplina, compromiso y vocación de enseñanza en el mundo del desarrollo, donde sigo formándome con entusiasmo y constancia para aportar valor real como programador.",
     "location": {
       "address": "",
       "postalCode": "28053",
@@ -29,33 +29,31 @@
   },
   "work": [
     {
-      "name": "midudev",
-      "position": "Divulgador sobre Programación Web",
-      "url": "https://twitch.tv/midudev",
-      "startDate": "2021-01-01",
+      "name": "SAGATECH",
+      "position": "Desarrollo de Software",
+      "startDate": "2025-02-01",
+      "endDate": "2025-05-27",
+      "summary": "Prácticas en Sagatech realizando tareas tanto de Backend como de Frontend. Implementación de herramientas como GPU.js, Astro, IndexedDB...",
+      "highlights": [
+        "Started the company"
+      ]
+    },
+    {
+      "name": "Basic-Fit",
+      "position": "Técnico deportivo y Host",
+      "startDate": "2018-11-01",
       "endDate": null,
-      "summary": "Streamer de programación más visto en Español en Twitch. +1 millón de seguidores entre todas mis redes sociales. Reconocido por Google, Microsoft y GitHub por mi impacto en la comunidad de desarrolladores.",
+      "summary": "Imparto clases como Zumba, Body Combat, Body Pump, Body Attack, XCore, BootyABS. Llevo muchos años trabajando de cara al público.",
       "highlights": [
         "Started the company"
       ]
     },
     {
-      "name": "Adevinta",
-      "position": "Lead Frontend Architect",
-      "url": "https://twitch.tv/midudev",
-      "startDate": "2016-06-01",
-      "endDate": "2022-09-01",
-      "summary": "Lideré una convergencia técnica entre diferentes productos y migramos una arquitectura monolítica a otra más flexible y optimizada. Fomenté buenas prácticas y mejoras en la cultura de rendimiento, además de la entrega rápida de valor a los usuarios.",
-      "highlights": [
-        "Started the company"
-      ]
-    },
-    {
-      "name": "Hubii",
-      "position": "Senior FrontEnd Developer",
-      "startDate": "2011-03-01",
-      "endDate": "2016-05-01",
-      "summary": "Desarrollé una plataforma de noticias geolocalizadas y una API para consumir la información. Escalé los servicios para soportar la carga de más de cientos de miles de peticiones al día. Recorté los tiempos de entrega y despliegues a producción a la mitad. Colaboré con Mozilla y Telefónica para desarrollar la primera app para televisores con FirefoxOS.",
+      "name": "Polideportivo Las Cruces",
+      "position": "Técnico Deportivo",
+      "startDate": "2017-11-01",
+      "endDate": "2018-10-01",
+      "summary": "Realización de clases como Natación, Aquagym, Aerobic Infantil, Zumba, Body Pump y Body Combat. ",
       "highlights": [
         "Started the company"
       ]
