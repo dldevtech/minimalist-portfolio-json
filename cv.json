@@ -17,18 +17,13 @@
     "profiles": [
       {
         "network": "LinkedIn",
-        "username": "midudev",
-        "url": "https://linkedin.com/in/midudev"
-      },
-      {
-        "network": "X",
-        "username": "midudev",
-        "url": "https://x.com/midudev"
+        "username": "Daniel Lucas Delgado",
+        "url": "http://www.linkedin.com/in/daniel-lucas-delgado-00a730309"
       },
       {
         "network": "GitHub",
         "username": "midudev",
-        "url": "https://github.com/midudev"
+        "url": "https://github.com/dldevtech"
       }
     ]
   },
