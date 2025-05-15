@@ -71,17 +71,28 @@
     ]
   }],
   "education": [{
-    "institution": "Universitat Oberta de Catalunya",
-    "url": "https://www.uoc.edu/portal/es/index.html",
-    "area": "Ingeniero de Software",
-    "studyType": "Bachelor",
-    "startDate": "2003-01-01",
-    "endDate": "2009-01-01",
-    "score": "4.0",
-    "courses": [
-      "DB1101 - Basic SQL"
-    ]
-  }],
+    "institution": "Instituto Ilerna Online",
+    "url": "https://www.ilerna.es/",
+    "area": "Desarrollo Aplicaciones Multiplataforma",
+    "studyType": "Grado Superior",
+    "startDate": "2023-02-01",
+    "endDate": "2025-05-27"
+  },
+  {
+    "institution": "I.E.S Virgen de la Paloma",
+    "area": "Técnico Superior en Animación de Actividades Físicas y Deportivas",
+    "studyType": "Grado Superior",
+    "startDate": "2016-09-01",
+    "endDate": "2018-06-27"
+  },
+  {
+    "institution": "Universidad Autónoma de Madrid",
+    "area": "Grado en Filosofía",
+    "studyType": "Grado Universitario",
+    "startDate": "2023-02-01",
+    "endDate": "2025-05-27"
+  }
+],
   "awards": [{
     "title": "Award",
     "date": "2014-11-01",
