@@ -114,6 +114,13 @@
   }],
   "skills": [
     {
+      "name": "AWS",
+      "level": "Intermedium",
+      "keywords": [
+        "Cloud Computing", "Amazon Web Services"
+      ]
+    },
+    {
       "name": "HTML",
       "level": "Basic",
       "keywords": [
